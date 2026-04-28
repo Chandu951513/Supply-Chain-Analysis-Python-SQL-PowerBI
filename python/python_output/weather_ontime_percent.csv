@@ -1,0 +1,7 @@
+Weather_Condition,ontime,total_orders,avg_delay,total_percent,total_delaypercent
+Clear,111346,227944,8.5072,48.85,51.15
+Storm,10198,20850,13.4722,48.91,51.09
+Fog,20234,41371,9.5301,48.91,51.09
+Snow,20304,41354,11.4988,49.10,50.90
+Rain,40365,82864,9.5161,48.71,51.29
+Unknown,10783,21945,8.5514,49.14,50.86

@@ -1,0 +1,6 @@
+Traffic_Condition,ontime,total_orders,avg_delay,total_percent,total_delaypercent
+High,51308,104771,10.1917,48.97,51.03
+Medium,71600,146772,9.2036,48.78,51.22
+Unknown,8539,17612,8.1686,48.48,51.52
+Low,61329,125184,8.2047,48.99,51.01
+Severe,20454,41989,11.3321,48.71,51.29

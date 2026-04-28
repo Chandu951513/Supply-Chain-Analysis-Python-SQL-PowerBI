@@ -1,0 +1,25 @@
+"Destination_City";"Destination_State";"Destination_Region";"destination_id"
+"Atlanta";"GA";"South";7
+"Baltimore";"MD";"East";12
+"Boston";"MA";"East";10
+"Charlotte";"NC";"South";17
+"Chicago";"IL";"Central";19
+"Columbus";"OH";"Central";24
+"Dallas";"TX";"South";4
+"Detroit";"MI";"Central";23
+"Hartford";"CT";"East";14
+"Houston";"TX";"South";3
+"Indianapolis";"IN";"Central";20
+"Kansas City";"MO";"Central";9
+"Las Vegas";"NV";"West";21
+"Los Angeles";"CA";"West";6
+"Miami";"FL";"South";18
+"Minneapolis";"MN";"Central";11
+"Nashville";"TN";"South";15
+"New York";"NY";"East";13
+"Newark";"NJ";"East";5
+"Philadelphia";"PA";"East";16
+"Phoenix";"AZ";"West";22
+"Portland";"OR";"West";1
+"San Francisco";"CA";"West";2
+"Seattle";"WA";"West";8

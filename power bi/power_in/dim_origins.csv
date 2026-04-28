@@ -1,0 +1,25 @@
+"Origin_City";"Origin_State";"Origin_Region";"origin_id"
+"Atlanta";"GA";"South";6
+"Baltimore";"MD";"East";10
+"Boston";"MA";"East";16
+"Charlotte";"NC";"South";1
+"Chicago";"IL";"Central";23
+"Columbus";"OH";"Central";19
+"Dallas";"TX";"South";14
+"Detroit";"MI";"Central";5
+"Hartford";"CT";"East";11
+"Houston";"TX";"South";13
+"Indianapolis";"IN";"Central";3
+"Kansas City";"MO";"Central";2
+"Las Vegas";"NV";"West";15
+"Los Angeles";"CA";"West";17
+"Miami";"FL";"South";4
+"Minneapolis";"MN";"Central";24
+"Nashville";"TN";"South";21
+"New York";"NY";"East";9
+"Newark";"NJ";"East";18
+"Philadelphia";"PA";"East";7
+"Phoenix";"AZ";"West";8
+"Portland";"OR";"West";22
+"San Francisco";"CA";"West";12
+"Seattle";"WA";"West";20

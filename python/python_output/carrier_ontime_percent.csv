@@ -1,0 +1,6 @@
+Carrier,ontime,total_orders,total_percent
+FedEx,66438,121577,0.55
+UPS,60559,117887,0.51
+DHL,24172,65444,0.37
+USPS,40206,87714,0.46
+OnTrac,21855,43706,0.50
