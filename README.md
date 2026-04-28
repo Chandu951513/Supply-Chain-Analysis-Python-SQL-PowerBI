@@ -70,40 +70,59 @@ Python EDA, SQL analysis, and a Power BI dashboard.
 ---
 
 ## 📁 Project Structure
-
-SwiftChain-Supply-Chain-Analysis/
+```
+SUPPLY_CHAIN_MANAGEMENT/
 │
-├── data/
-│   └── Cleaned_data_supply_chain.csv
+├── Documents/
+│   ├── Data_dict_meta_data.xlsx
+│   └── SwiftChain_Project_Brief.pdf
+│
+├── O_Raw_Data/
+│   ├── swiftchain_logistics_450k.csv
+│   ├── delivery_delayed.csv
+│   ├── Ontime_delivered.csv
+│   └── Transit.csv
+│
+├── power bi/
+│   ├── power_in/
+│   │   ├── fact_table.csv
+│   │   ├── dim_carriers.csv
+│   │   ├── dim_customers.csv
+│   │   ├── dim_destination.csv
+│   │   ├── dim_origins.csv
+│   │   ├── dim_products_cat.csv
+│   │   ├── dim_routes.csv
+│   │   ├── dim_segment_cust.csv
+│   │   └── dim_warehouses.csv
+│   └── power_out/
+│       └── supplychain.pbix
 │
 ├── python/
-│   └── swiftchain_eda.ipynb
+│   ├── python_notebook/
+│   └── python_output/
 │
-├── sql/
-│   └── swiftchain_sql_analysis.sql
+├── Screenshots/
+│   ├── page1-summary.png
+│   ├── page2-carrier and routes.png
+│   └── page3-warehouses.png
 │
-├── powerbi/
-│   └── supplychain.pbix
-│
-├── screenshots/
-│   ├── page1_summary.png
-│   ├── page2_carrier_routes.png
-│   └── page3_warehouse.png
+├── sql/supplychain.sql
 │
 └── README.md
+```
 
 
 ---
 
 ## 📸 Dashboard Screenshots
 ### Page 1 — Executive Summary
-![Page 1](screenshots/page1_summary.png)
+![Page 1](Screenshots/page1-summary.png)
 
 ### Page 2 — Carrier and Routes
-![Page 2](screenshots/page2_carrier_routes.png)
+![Page 2](Screenshots/page2-carrier and routes.png)
 
 ### Page 3 — Warehouse and Root Cause
-![Page 3](screenshots/page3_warehouse.png)
+![Page 3](Screenshots/page3-warehouses.png)
 
 ---
 
