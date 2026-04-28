@@ -119,7 +119,7 @@ SUPPLY_CHAIN_MANAGEMENT/
 ![Page 1](Screenshots/page1-summary.png)
 
 ### Page 2 — Carrier and Routes
-![Page 2](Screenshots/page2-carrier and routes.png)
+![Page 2](Screenshots/page2-carrier_routes.png)
 
 ### Page 3 — Warehouse and Root Cause
 ![Page 3](Screenshots/page3-warehouses.png)
